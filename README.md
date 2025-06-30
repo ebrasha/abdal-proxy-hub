@@ -8,7 +8,7 @@
 
 A curated, auto-updated collection of free public proxies — organized by protocol.  
 Socks4, Socks5, HTTP, and HTTPS proxies ready to use.  
-**Updated every 30 minutes.**
+**Updated every 10 minutes.**
 
 ### 📄 Available Proxy Lists
 
@@ -43,7 +43,7 @@ Telegram: [https://t.me/ProfShafiei](https://t.me/ProfShafiei)
 
 مخزنی از پراکسی‌های رایگان عمومی شامل انواع Socks4، Socks5، HTTP و HTTPS  
 همه پراکسی‌ها در فایل‌هایی جداگانه به فرمت `ip:port` قرار دارند.  
-**هر ۳۰ دقیقه به‌صورت خودکار بروزرسانی می‌شوند.**
+**هر 10 دقیقه به‌صورت خودکار بروزرسانی می‌شوند.**
 
 ### 📄 لیست فایل‌ها
 
