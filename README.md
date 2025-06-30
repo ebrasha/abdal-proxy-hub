@@ -26,14 +26,19 @@ Use them freely in tools that support proxy input.
 
 ## 🔄 Update Schedule
 
-- Proxy lists update **every 30 minutes** automatically
+- Proxy lists update **every 10 minutes** automatically
 - Invalid or dead proxies are excluded
 
 ## 🤵 Maintained By
 
-Ebrahim Shafiei (EbraSha)  
-Email: [Prof.Shafiei@Gmail.com](mailto:Prof.Shafiei@Gmail.com)  
+by Ebrahim Shafiei (EbraSha)  
+E-Mail: [Prof.Shafiei@Gmail.com](mailto:Prof.Shafiei@Gmail.com)  
 Telegram: [https://t.me/ProfShafiei](https://t.me/ProfShafiei)
+
+## ☠️ Reporting Issues
+
+If you are facing a configuration issue or something is not working as you expected to be,  
+please contact **Prof.Shafiei@Gmail.com**. Issues on GitHub or GitLab are also welcomed.
 
 ---
 
@@ -60,13 +65,21 @@ Telegram: [https://t.me/ProfShafiei](https://t.me/ProfShafiei)
 
 ## 🔄 زمان‌بندی بروزرسانی
 
-- بروزرسانی خودکار هر **۳۰ دقیقه**
+- بروزرسانی خودکار هر **30 دقیقه**
 - پراکسی‌های غیرفعال به صورت خودکار حذف می‌شوند
 
 ## 🤵 نگهداری توسط
 
-ابراهیم شفیعی (EbraSha)  
+به دست : ابراهیم شفیعی (EbraSha)  
 ایمیل: [Prof.Shafiei@Gmail.com](mailto:Prof.Shafiei@Gmail.com)  
 تلگرام: [https://t.me/ProfShafiei](https://t.me/ProfShafiei)
+
+## ☠️ گزارش مشکلات
+
+اگر با مشکلی در کانفیگ‌ها مواجه شدید یا چیزی طبق انتظار کار نکرد،  
+لطفاً از طریق ایمیل **Prof.Shafiei@Gmail.com** با ما در تماس باشید. همچنین می‌توانید در GitHub یا GitLab issue ثبت کنید.
+
+
+
 
 </div>
